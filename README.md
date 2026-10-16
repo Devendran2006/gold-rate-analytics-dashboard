@@ -57,6 +57,10 @@ An API key may be required to retrieve data from MetalpriceAPI.
 
 Store your API key securely in an environment variable or a local configuration file that is excluded from version control. Never publish private API credentials in the repository.
 
+## Preview
+
+![Gold Rate Analytics Dashboard](screenshorts/gold-rate-dashboard.png.png)
+
 ## 🎓 Project Purpose
 
 This project demonstrates practical applications of API integration
